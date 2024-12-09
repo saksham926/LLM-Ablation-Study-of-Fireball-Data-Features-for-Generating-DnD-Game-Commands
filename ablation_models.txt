@@ -1,0 +1,6 @@
+m1 before_utterances, current_player
+m2 before_utterances, combat_state_before and current_actor_name 
+m3 combat_state_before, current_actor_name 
+m4 current_player
+m5 before_utterances
+
